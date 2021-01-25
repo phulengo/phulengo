@@ -5,14 +5,16 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/phulengo)
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phulengo)
-
-I am a full-stack web developer. One life, many passions 🔥
+💻 I am a full-stack web developer. One life, many passions 🔥
 
 📈 **My GitHub Stats:**
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulengo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulengo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
+
+📊 **This Week I Spent My Time On:**
+[![phulengo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phulengo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **phulengo/phulengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
