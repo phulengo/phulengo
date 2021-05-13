@@ -4,8 +4,9 @@
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/phulengo)
 <!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/phulengo/)-->
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phulengo)
-💻 I am a full-stack web developer. One life, many passions 🔥
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phulengo) [![wakatime](https://wakatime.com/badge/github/phulengo/ecommerce-internship.svg)](https://wakatime.com/@phulengo)
+💻 I am a full-stack web developer. 
+One life, many passions 🔥
 
 📈 **My GitHub Stats:**
 <p>
