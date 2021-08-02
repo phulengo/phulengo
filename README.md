@@ -1,23 +1,24 @@
 ### Hi there, I'm Phu Le Ngo 👋
+------
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/phulengo)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phulengo)
-[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/phulengo)
-<!--[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/phulengo/)-->
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phulengo) 
+![](https://visitor-badge.glitch.me/badge?page_id=phulengo) [![wakatime](https://wakatime.com/badge/github/phulengo/ecommerce-internship.svg)](https://wakatime.com/@phulengo)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=phulengo) [![wakatime](https://wakatime.com/badge/github/phulengo/ecommerce-internship.svg)](https://wakatime.com/@phulengo)
-💻 I am a full-stack web developer. 
-One life, many passions 🔥
+🚀 **"Virtual" Stats:**
 
-📈 **My GitHub Stats:**
-<p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phulengo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phulengo&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>-->
-</p>
 
-📊 **This Week I Spent My Time On:**
+👨‍💻 **Weekly Hands-On:**
 
 [![phulengo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=phulengo&layout=compact)](https://github.com/phulengo)
 
+
+🌃 **Mood:**
+
+[![michael corleone](https://github.com/phulengo/phulengo/blob/main/michael.gif?raw=true)](https://github.com/phulengo)
+
+------
 <!--
 **phulengo/phulengo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
