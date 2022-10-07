@@ -2,7 +2,7 @@
 ------
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/phulengo)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phulengo) 
-![](https://visitor-badge.glitch.me/badge?page_id=phulengo) [![wakatime](https://wakatime.com/badge/github/phulengo/ecommerce-internship.svg)](https://wakatime.com/@phulengo)
+![](https://visitor-badge.glitch.me/badge?page_id=phulengo) [![wakatime](https://wakatime.com/badge/user/d6421665-4d44-4679-9950-30e9a0dcd423.svg)](https://wakatime.com/@phulengo)
 
 🚀 **"Virtual" Stats:**
 
